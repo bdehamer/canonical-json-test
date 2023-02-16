@@ -1,0 +1,23 @@
+{
+  "name": "canonical-json-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "tap"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stratumn/canonicaljson": "^1.0.3",
+    "@truestamp/canonify": "^2.1.0",
+    "another-json": "^0.2.0",
+    "canon": "^0.4.1",
+    "canonical-json": "0.0.4",
+    "canonicalize": "^1.0.8",
+    "canonicalize-json": "^1.0.2",
+    "json-canonicalize": "^1.0.4"
+  },
+  "devDependencies": {
+    "tap": "^16.3.4"
+  }
+}
